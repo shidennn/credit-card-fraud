@@ -1,0 +1,5 @@
+# ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# ignore big dataset
+creditcard.csv
